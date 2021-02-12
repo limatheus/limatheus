@@ -16,3 +16,5 @@
     />
   </a>
 </p>
+
+![Views](https://komarev.com/ghpvc/?username=limatheus)	<p align="center">
