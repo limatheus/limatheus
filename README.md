@@ -47,7 +47,7 @@ I can contribute across several technical activities, including development-heav
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=limatheus&theme=dracula&show_icons=true" />
-  <a href="https://git.io/streak-stats"><img  height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=limatheus&theme=dracula" alt="GitHub Streak" /></a>
+ <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=limatheus&show_icons=true&count_private=true&theme=dracula" alt="GitHub Streak" />
   
 
   ![Views](https://komarev.com/ghpvc/?username=limatheus)	<p align="center">
