@@ -1,13 +1,10 @@
+<h1>Hi there, I'm <a href="https://matheuslima.com/" target="_blank">Matheus Lima</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<h1>Hi there, I'm <a href="https://matheuslima.com/" target="_blank">Matheus Lima</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+Technology enthusiast. I have a real passion for development, functional and clean design and a appetite for continual learning, I typically manifest by my community contributions (e.g., open source work, publishing / speaking on technical ideas).
 
-Technology enthusiast. I have a real passion for development, functional and clean design  and a appetite for continual learning, I typically manifest by my community contributions (e.g., open source work, publishing / speaking on technical ideas).
-
-Always obsessed with mastering the newest programming techniques and skills. You can find me constantly pouring over the latest articles and tutorials 
+Always obsessed with mastering the newest programming techniques and skills. You can find me constantly pouring over the latest articles and tutorials.
 
 I can contribute across several technical activities, including development-heavy and low-code activities, such as data engineering, software development, system/ product configuration and DevOps.
-
 
 ### Languages
 
@@ -53,14 +50,11 @@ I can contribute across several technical activities, including development-heav
 ---
 
 <div align="center">
-
-<img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=limatheus&layout=compact&theme=github_dark" />
- <img  height="200em" src="https://github-readme-stats-fast.vercel.app/api?username=limatheus&show_icons=true&theme=github_dark"  />
- <img  height="200em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=limatheus&theme=github_dark"  />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=limatheus&layout=compact&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=limatheus&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=limatheus&theme=github_dark" />
   
-
-  ![Views](https://komarev.com/ghpvc/?username=limatheus)	<p align="center">
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=limatheus" alt="Views" />
 </div>
-
-
-
