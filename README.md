@@ -1,12 +1,20 @@
-<h1>Hi there, I'm <a href="https://matheuslima.com/" target="_blank">Matheus Lima</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1>Hi there, I'm <a href="https://matheuslima.dev/" target="_blank">Matheus Lima</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-Technology enthusiast. I have a real passion for development, functional and clean design and a appetite for continual learning, I typically manifest by my community contributions (e.g., open source work, publishing / speaking on technical ideas).
+**Senior Software Engineer & Cloud Architect**
 
-Always obsessed with mastering the newest programming techniques and skills. You can find me constantly pouring over the latest articles and tutorials.
+I specialize in architecting scalable SaaS platforms, high-volume transactional systems, and cloud infrastructure. With over 17 years in the industry, my focus is strictly on delivering high-performance, resilient engineering solutions.
 
-I can contribute across several technical activities, including development-heavy and low-code activities, such as data engineering, software development, system/ product configuration and DevOps.
+### My Engineering Focus
 
-### Languages
+*   **Ecosystem:** Deep expertise in PHP, Laravel (including the TALL stack), and Go.
+*   **Architecture:** Building complex systems using Domain-Driven Design (DDD), multi-tenant/white-label structures, and asynchronous processing.
+*   **Infrastructure & DX:** Orchestrating server deployments, CI/CD pipelines, and prioritizing Developer Experience (DX) and Clean Code.
+
+> I am driven by solving complex bottlenecks and translating business-critical requirements into robust codebase architectures.
+
+---
+
+### Languages & Frameworks
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -26,7 +34,6 @@ I can contribute across several technical activities, including development-heav
 ![Prisma](https://img.shields.io/badge/Prisma-5a67d8?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
 ---
 
 ### Technologies & Tools
@@ -41,7 +48,7 @@ I can contribute across several technical activities, including development-heav
 
 ---
 
-### LET'S CONNECT
+###  LET'S CONNECT
 <a href="https://www.linkedin.com/in/mlimadev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/matheuslimadev" target="_blank">
@@ -53,8 +60,7 @@ I can contribute across several technical activities, including development-heav
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=limatheus&layout=compact&theme=github_dark" />
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=limatheus&show_icons=true&theme=github_dark" />
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=limatheus&theme=github_dark" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=limatheus" alt="Views" />
 </div>
+
+<img src="https://hits.sh/github.com/limatheus/profile-views.svg" width="0" height="0" alt="" style="display:none;" />
+
