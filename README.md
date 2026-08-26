@@ -60,7 +60,8 @@ I specialize in architecting scalable SaaS platforms, high-volume transactional 
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=limatheus&layout=compact&theme=github_dark" />
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=limatheus&show_icons=true&theme=github_dark" />
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=limatheus&theme=github_dark" />
-</div>
 
-<img src="https://hits.sh/github.com/limatheus/profile-views.svg" width="0" height="0" alt="" style="display:none;" />
+<br />
+<img src="https://komarev.com/ghpvc/?username=limatheus" alt="Views" />
+</div>
 
